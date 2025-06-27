@@ -1,0 +1,7 @@
+aiogram
+python-docx
+PyPDF2
+pytesseract
+pillow
+pandas
+openpyxl

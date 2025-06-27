@@ -1,0 +1,1 @@
+web: python eva_telegram_bot.py
